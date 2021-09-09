@@ -1,2 +1,2 @@
-# CV-https://nuraidaamatova.github.io/CV-/
+# CV
 Angela Yu. CV with HTML
